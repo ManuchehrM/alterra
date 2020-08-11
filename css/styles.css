@@ -31,7 +31,20 @@ body{
     color: lightgray;
 }
 
+.delete-link{
+    color: black;
+}
+
+.delete-link:hover{
+    color: #007BFF;
+    text-decoration: none;
+}
+
+h5, h6{
+    overflow-y: hidden;
+}
+
 *{
     overflow-x: hidden;
-    overflow-y: hidden;
+    /* overflow-y: hidden; */
 }
