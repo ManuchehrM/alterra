@@ -1,0 +1,37 @@
+body{
+    background-color: #ECEFF4;
+}
+
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); 
+}
+
+.card-title{
+    border-bottom: 0.6px solid lightgray;
+}
+
+.first-card{
+    margin-top: 80px;
+    
+}
+
+.second-card{
+    margin-top: 10px;
+}
+
+.btn{
+    background-color: #4D59A1;
+    color: #ffffff;
+}
+.btn:hover{
+    color: lightgray;
+}
+
+*{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
